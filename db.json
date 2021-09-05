@@ -1,0 +1,25 @@
+{
+    "contacts":[
+        {
+            "dni":"123",
+            "phone":"123",
+            "name":"juan",
+            "lastName":"perez",
+            "email":"juan@perez.com"
+        },
+        {
+            "dni":"456",
+            "phone":"456",
+            "name":"paul",
+            "lastName":"lopez",
+            "email":"paul@lopez.com"
+        },
+        {
+            "dni":"789",
+            "phone":"789",
+            "name":"ricardo",
+            "lastName":"castro",
+            "email":"ricardo@castro.com"
+        }
+    ]
+}
