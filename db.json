@@ -1,7 +1,7 @@
 {
     "contacts":[
         {
-            "id":"29930123",
+            "id":"0",
             "dni":"29930123",
             "phone":"153232400",
             "name":"juan",
@@ -9,7 +9,7 @@
             "email":"juan@perez.com"
         },
         {
-            "id":"29930456",
+            "id":"1",
             "dni":"29930456",
             "phone":"153232401",
             "name":"paul",
@@ -17,7 +17,7 @@
             "email":"paul@lopez.com"
         },
         {
-            "id":"29930789",
+            "id":"2",
             "dni":"29930789",
             "phone":"153232402",
             "name":"ricardo",
@@ -25,7 +25,7 @@
             "email":"ricardo@castro.com"
         },
         {
-            "id":"29930705",
+            "id":"3",
             "dni":"29930705",
             "phone":"153232403",
             "name":"john",
