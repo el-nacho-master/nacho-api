@@ -1,0 +1,23 @@
+{
+  "name": "nacho-api",
+  "version": "1.0.0",
+  "description": "modelo\r {\r             \"id\":\"\",\r             \"dni\":\"\",\r             \"phone\":\"\",\r             \"name\":\"\",\r             \"lastName\":\"\",\r             \"email\":\"\"\r  }",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/el-nacho-master/nacho-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/el-nacho-master/nacho-api/issues"
+  },
+  "homepage": "https://github.com/el-nacho-master/nacho-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
