@@ -2,7 +2,7 @@
     "contacts":[
         {
             "id":"0",
-            "dni":"29930123",
+            "dni":29930123,
             "phone":"02613232400",
             "name":"juan",
             "lastName":"perez",
@@ -10,7 +10,7 @@
         },
         {
             "id":"1",
-            "dni":"29930456",
+            "dni":29930456,
             "phone":"02613232401",
             "name":"paul",
             "lastName":"lopez",
@@ -18,7 +18,7 @@
         },
         {
             "id":"2",
-            "dni":"29930789",
+            "dni":29930789,
             "phone":"02613232402",
             "name":"ricardo",
             "lastName":"castro",
@@ -26,7 +26,7 @@
         },
         {
             "id":"3",
-            "dni":"29930705",
+            "dni":29930705,
             "phone":"02613232403",
             "name":"john",
             "lastName":"williams",
