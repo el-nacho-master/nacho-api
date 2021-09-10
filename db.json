@@ -3,7 +3,7 @@
     {
       "id": 0,
       "dni": 29930123,
-      "phone": "(261)3232400",
+      "phone": "(261) 323-2400",
       "name": "juan",
       "lastName": "perez",
       "email": "juan@perez.com"
@@ -11,7 +11,7 @@
     {
       "id": 1,
       "dni": 29930456,
-      "phone": "(261)3232401",
+      "phone": "(261) 323-2401",
       "name": "paul",
       "lastName": "lopez",
       "email": "paul@lopez.com"
@@ -19,7 +19,7 @@
     {
       "id": 2,
       "dni": 29930789,
-      "phone": "(261)3232402",
+      "phone": "(261) 323-2402",
       "name": "ricardo",
       "lastName": "castro",
       "email": "ricardo@castro.com"
@@ -27,7 +27,7 @@
     {
       "id": 3,
       "dni": 29930705,
-      "phone": "(261)3232403",
+      "phone": "(261) 323-2403",
       "name": "john",
       "lastName": "williams",
       "email": "john@williams.com"
@@ -35,7 +35,7 @@
     {
       "id": 4,
       "dni": 29930705,
-      "phone": "(261)3232403",
+      "phone": "(261) 323-2403",
       "name": "ricardo",
       "lastName": "roberts",
       "email": "ricky@roberts.com"
