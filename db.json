@@ -1,41 +1,41 @@
 {
   "contacts": [
     {
-      "id": "0",
+      "id": 0,
       "dni": 29930123,
-      "phone": "02613232400",
+      "phone": 2613232400,
       "name": "juan",
       "lastName": "perez",
       "email": "juan@perez.com"
     },
     {
-      "id": "1",
+      "id": 1,
       "dni": 29930456,
-      "phone": "02613232401",
+      "phone": 2613232401,
       "name": "paul",
       "lastName": "lopez",
       "email": "paul@lopez.com"
     },
     {
-      "id": "2",
+      "id": 2,
       "dni": 29930789,
-      "phone": "02613232402",
+      "phone": 2613232402,
       "name": "ricardo",
       "lastName": "castro",
       "email": "ricardo@castro.com"
     },
     {
-      "id": "3",
+      "id": 3,
       "dni": 29930705,
-      "phone": "02613232403",
+      "phone": 2613232403,
       "name": "john",
       "lastName": "williams",
       "email": "john@williams.com"
     },
     {
-      "id": "4",
+      "id": 4,
       "dni": 29930705,
-      "phone": "02613232403",
+      "phone": 2613232403,
       "name": "ricardo",
       "lastName": "roberts",
       "email": "ricky@roberts.com"
